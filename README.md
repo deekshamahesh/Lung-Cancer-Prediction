@@ -11,3 +11,4 @@ i)	 Random Forest                                ii)            K-Nearest Neighb
 ii)	Support Vector Machine (SVM)      iv)            Balanced Random Forest
 CONCLUSION:
 The project utilized machine learning algorithms like K-Nearest Neighbors, Random Forest, Balanced Random Forest, and Support Vector Machine to predict lung cancer. The models achieved an accuracy of 97%, F-score of 98.18, and precision score of 96.42 in early detection.
+![image](https://github.com/deekshamahesh/Lung-Cancer-Prediction/assets/122089660/8730f49c-1851-4064-89f5-18796619e23a)
